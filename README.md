@@ -1,4 +1,4 @@
-# Project-2-Contacts
+# Contacts Project
 
 Test driven development task to demonstrate the inheritance of a built-in class.
 
